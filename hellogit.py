@@ -1,2 +1,2 @@
-print("estoy editando el archivo hellogit.py")
+print("new hello git hub")
 
